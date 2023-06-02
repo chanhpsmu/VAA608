@@ -1,11 +1,5 @@
 ---
-title: "VAA608"
+title: "ISSS608_VAA"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to **ISSS608 Visual Analytics and Applications**! In this website, you will find all interesting content about this course!
